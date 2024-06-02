@@ -13,25 +13,31 @@
     <loc>https://serkor1.github.io/cryptoQuotes/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/articles/00-introduction.html</loc>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/01-article.html</loc>
   </url>
   <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/articles/02-charting.html</loc>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/02-article.html</loc>
   </url>
   <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/articles/03-timezones.html</loc>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/03-article.html</loc>
   </url>
   <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/articles/04-converting.html</loc>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/04-article.html</loc>
   </url>
   <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/articles/05-quantmod.html</loc>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/05-article.html</loc>
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/articles/cryptoQuotes.html</loc>
   </url>
   <url>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/custom_indicators.html</loc>
+  </url>
+  <url>
     <loc>https://serkor1.github.io/cryptoQuotes/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://serkor1.github.io/cryptoQuotes/articles/usecase.html</loc>
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/authors.html</loc>
@@ -67,15 +73,6 @@
     <loc>https://serkor1.github.io/cryptoQuotes/reference/assert.html</loc>
   </url>
   <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/reference/availableExchanges.html</loc>
-  </url>
-  <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/reference/availableIntervals.html</loc>
-  </url>
-  <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/reference/availableTickers.html</loc>
-  </url>
-  <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/available_exchanges.html</loc>
   </url>
   <url>
@@ -94,6 +91,9 @@
     <loc>https://serkor1.github.io/cryptoQuotes/reference/chart.html</loc>
   </url>
   <url>
+    <loc>https://serkor1.github.io/cryptoQuotes/reference/chart_layout.html</loc>
+  </url>
+  <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/convert_date.html</loc>
   </url>
   <url>
@@ -104,6 +104,9 @@
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/dema.html</loc>
+  </url>
+  <url>
+    <loc>https://serkor1.github.io/cryptoQuotes/reference/donchian_channel.html</loc>
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/ema.html</loc>
@@ -119,15 +122,6 @@
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/flatten.html</loc>
-  </url>
-  <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/reference/getFGIndex.html</loc>
-  </url>
-  <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/reference/getLSRatio.html</loc>
-  </url>
-  <url>
-    <loc>https://serkor1.github.io/cryptoQuotes/reference/getQuote.html</loc>
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/get_fgindex.html</loc>
@@ -166,6 +160,9 @@
     <loc>https://serkor1.github.io/cryptoQuotes/reference/ohlc.html</loc>
   </url>
   <url>
+    <loc>https://serkor1.github.io/cryptoQuotes/reference/pline.html</loc>
+  </url>
+  <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/remove_bound.html</loc>
   </url>
   <url>
@@ -173,6 +170,9 @@
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/sma.html</loc>
+  </url>
+  <url>
+    <loc>https://serkor1.github.io/cryptoQuotes/reference/smi.html</loc>
   </url>
   <url>
     <loc>https://serkor1.github.io/cryptoQuotes/reference/split_window.html</loc>
